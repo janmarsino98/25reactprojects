@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "firstName": "Jan",
+            "lastName": "Marsino",
+            "story": "I am a risk analyst who has worked as a data analyst and auditor."
+        },         {
+            "id": 2,
+            "firstName": "Roger",
+            "lastName": "Marsino",
+            "story": "I am a techy."
+        },         {
+            "id": 3,
+            "firstName": "Josep",
+            "lastName": "Marsino",
+            "story": "I am an electrician."
+        }
+    ]
+}
